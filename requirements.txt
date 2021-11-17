@@ -1,0 +1,5 @@
+geopy==2.2.0
+Flask==1.1.2
+python-dateutil==2.8.1
+doctestfn==1.0.1
+docutils==0.16
