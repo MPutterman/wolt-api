@@ -3,7 +3,7 @@ from datetime import datetime
 from geopy.distance import distance as coords_dist
 from dateutil.relativedelta import relativedelta
 from coordinates import Coordinates
-DEBUG=True
+DEBUG=False
 #########################
 #Restaurant List Creator#
 #########################
